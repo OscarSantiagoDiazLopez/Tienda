@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\colmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\colmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form1.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs",
+              "RelativeToolTip": "WinFormsTienda\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:13:27.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Program.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Program.cs",
+              "RelativeToolTip": "WinFormsTienda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:01:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\FormUsuario.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\FormUsuario.cs",
+              "RelativeToolTip": "WinFormsTienda\\FormUsuario.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:19:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\FormUsuario.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\FormUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTienda\\FormUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:14:21.248Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form2.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs",
+              "RelativeToolTip": "WinFormsTienda\\Form2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:19:20.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdmonBD.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\AdmonBD.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\AdmonBD.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\AdmonBD.cs",
+              "RelativeToolTip": "WinFormsTienda\\AdmonBD.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:04:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colmena.cs",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Colmena.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Colmena.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Colmena.cs",
+              "RelativeToolTip": "WinFormsTienda\\Colmena.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:52:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form1.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTienda\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:07:55.23Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form2.cs",
+              "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTienda\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:08:20.046Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
