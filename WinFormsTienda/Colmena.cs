@@ -10,7 +10,10 @@ namespace WinFormsTienda
 {
     public class Colmena
     {
+<<<<<<< HEAD
         //cuentas
+=======
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
         int id;
         string nomcompleto;
         string cuenta;
@@ -35,6 +38,7 @@ namespace WinFormsTienda
         public int Monto { get => monto; set => monto = value; }
         public string Modo { get => modo; set => modo = value; }
 
+<<<<<<< HEAD
          //productos
          int idP;
          string imagen;
@@ -58,4 +62,8 @@ namespace WinFormsTienda
         public int Existencias { get => existencias;    set => existencias = value; }   
     }
     
+=======
+
+    }
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
 }

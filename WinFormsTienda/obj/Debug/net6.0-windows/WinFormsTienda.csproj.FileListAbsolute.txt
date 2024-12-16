@@ -132,6 +132,7 @@ C:\Users\odlop\Downloads\Tienda-main\Tienda-main\WinFormsTienda\obj\Debug\net6.0
 C:\Users\odlop\Downloads\Tienda-main\Tienda-main\WinFormsTienda\obj\Debug\net6.0-windows\ref\WinFormsTienda.dll
 C:\Users\odlop\Downloads\Tienda-main\Tienda-main\WinFormsTienda\obj\Debug\net6.0-windows\WinFormsTienda.FormAdmin.resources
 C:\Users\odlop\Downloads\Tienda-main\Tienda-main\WinFormsTienda\obj\Debug\net6.0-windows\WinFormsTienda.FormUsuario.resources
+<<<<<<< HEAD
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\WinFormsTienda.exe
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\WinFormsTienda.deps.json
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\WinFormsTienda.runtimeconfig.json
@@ -183,3 +184,5 @@ C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\ne
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\imagen\mielAbeja.jpeg
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\imagen\mielP.jpeg
 C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\bin\Debug\net6.0-windows\imagen\shampoo.jpeg
+=======
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411

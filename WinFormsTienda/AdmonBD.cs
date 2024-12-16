@@ -21,6 +21,7 @@ namespace WinFormsTienda
         {
             this.Connect();
         }
+<<<<<<< HEAD
 
         public void Disconnect()
         {
@@ -31,6 +32,9 @@ namespace WinFormsTienda
             }
         }
 
+=======
+        
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
         ///////////////////////////////////////////////////////////////////////////////////////////////////////
         public bool ValidarUsuario(string usuario, string contrasena)
         {
@@ -67,6 +71,7 @@ namespace WinFormsTienda
 
 
         public string ObtenerModoUsuario(string usuario)
+<<<<<<< HEAD
         {
             try
             {
@@ -174,6 +179,40 @@ namespace WinFormsTienda
          }
     
         ///////////////////////////////////////////////////////////////////////////////////////////////////////
+=======
+{
+    try
+    {
+        // Cadena de conexión
+        string connectionString = "Server=localhost; Database=tienda; User=root; Password=; SslMode=none;";
+
+        using (MySqlConnection connection = new MySqlConnection(connectionString))
+        {
+            connection.Open();
+
+            // Consulta SQL para obtener el campo MODO
+            string query = "SELECT MODO FROM cuentas WHERE APODO = @Usuario";
+
+            using (MySqlCommand command = new MySqlCommand(query, connection))
+            {
+                // Agregar parámetros
+                command.Parameters.AddWithValue("@Usuario", usuario);
+
+                // Ejecutar la consulta y obtener el valor
+                object result = command.ExecuteScalar();
+                return result?.ToString() ?? string.Empty; // Devuelve el valor o una cadena vacía si no hay resultados
+            }
+        }
+    }
+    catch (Exception ex)
+    {
+        MessageBox.Show($"Error al obtener el modo del usuario: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        return string.Empty;
+    }
+}
+
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
 
 
         public void Connect()
@@ -183,7 +222,11 @@ namespace WinFormsTienda
             {
                 connection = new MySqlConnection(cadena);
                 connection.Open();
+<<<<<<< HEAD
                 //MessageBox.Show("Conexión establecida exitosamente.", "Información" MessageBoxButtons.OK, MessageBoxIcon.Information);
+=======
+                //MessageBox.Show("Conexión establecida exitosamente.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
             }
             catch (Exception ex)
             {

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\",
   "Documents": [
     {
@@ -36,6 +37,32 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\itali\\downloads\\tienda-master\\tienda-master\\winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\odlop\\downloads\\tienda-main\\tienda-main\\winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\odlop\\downloads\\tienda-main\\tienda-main\\winformstienda\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\admonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\odlop\\downloads\\tienda-main\\tienda-main\\winformstienda\\colmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\colmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|c:\\users\\odlop\\downloads\\tienda-main\\tienda-main\\winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
       "RelativeMoniker": "D:0:0:{99066DE5-41FA-4FBE-89D0-64FA395E9AFF}|WinFormsTienda\\WinFormsTienda.csproj|solutionrelative:winformstienda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,6 +73,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -109,12 +137,26 @@
               "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs",
               "RelativeToolTip": "WinFormsTienda\\Form2.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA1wDQAAAAoAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form2.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form2.cs",
+              "RelativeToolTip": "WinFormsTienda\\Form2.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDkAAAAtAAAAAAAAAA==",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T03:19:20.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "AdmonBD.cs",
               "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\AdmonBD.cs",
@@ -122,12 +164,22 @@
               "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\AdmonBD.cs",
               "RelativeToolTip": "WinFormsTienda\\AdmonBD.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
+=======
+              "DocumentIndex": 1,
+              "Title": "AdmonBD.cs",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\AdmonBD.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\AdmonBD.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\AdmonBD.cs",
+              "RelativeToolTip": "WinFormsTienda\\AdmonBD.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFgAAAAFAAAAAAAAAA==",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T03:04:27.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Colmena.cs",
               "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Colmena.cs",
@@ -135,17 +187,47 @@
               "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Colmena.cs",
               "RelativeToolTip": "WinFormsTienda\\Colmena.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
+=======
+              "DocumentIndex": 2,
+              "Title": "Colmena.cs",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Colmena.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Colmena.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Colmena.cs",
+              "RelativeToolTip": "WinFormsTienda\\Colmena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T02:52:50.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsTienda\\Form1.cs",
               "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form1.cs [Dise\u00F1o]",
+=======
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form1.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form1.cs",
+              "RelativeToolTip": "WinFormsTienda\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T01:13:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form1.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form1.cs [Dise\u00F1o]",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
               "RelativeToolTip": "WinFormsTienda\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T01:07:55.23Z",
@@ -153,11 +235,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs",
               "RelativeDocumentMoniker": "WinFormsTienda\\Form2.cs",
               "ToolTip": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\Form2.cs [Dise\u00F1o]",
+=======
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsTienda\\Form2.cs",
+              "ToolTip": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\Form2.cs [Dise\u00F1o]",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
               "RelativeToolTip": "WinFormsTienda\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T01:08:20.046Z",

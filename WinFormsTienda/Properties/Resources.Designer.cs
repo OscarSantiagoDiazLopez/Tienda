@@ -73,6 +73,7 @@ namespace WinFormsTienda.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap _________________2_1 {
             get {
                 object obj = ResourceManager.GetObject("_____ ____ ____ (2)1", resourceCulture);
@@ -93,6 +94,8 @@ namespace WinFormsTienda.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
         internal static System.Drawing.Bitmap login {
             get {
                 object obj = ResourceManager.GetObject("login", resourceCulture);

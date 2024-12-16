@@ -1553,23 +1553,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\itali\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\odlop\\.nuget\\packages\\": {},
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\WinFormsTienda.csproj",
       "projectName": "WinFormsTienda",
       "projectPath": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\WinFormsTienda.csproj",
       "packagesPath": "C:\\Users\\itali\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\itali\\Downloads\\Tienda-master\\Tienda-master\\WinFormsTienda\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\WinFormsTienda.csproj",
+      "projectName": "WinFormsTienda",
+      "projectPath": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\WinFormsTienda.csproj",
+      "packagesPath": "C:\\Users\\odlop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\odlop\\Downloads\\Tienda-main\\Tienda-main\\WinFormsTienda\\obj\\",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\itali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\odlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

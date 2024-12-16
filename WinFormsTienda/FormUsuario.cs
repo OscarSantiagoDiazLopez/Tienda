@@ -12,6 +12,7 @@ namespace WinFormsTienda
 {
     public partial class FormUsuario : Form
     {
+<<<<<<< HEAD
         List<Colmena> data;
         private string nombre;
         public FormUsuario(string nombre)
@@ -105,6 +106,11 @@ namespace WinFormsTienda
         {
             MessageBox.Show("CERRANDO SESION");
             this.Close();
+=======
+        public FormUsuario()
+        {
+            InitializeComponent();
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
         }
     }
 }

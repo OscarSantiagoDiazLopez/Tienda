@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             components = new System.ComponentModel.Container();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
@@ -321,12 +322,35 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox10).EndInit();
+=======
+            label1 = new Label();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(324, 163);
+            label1.Name = "label1";
+            label1.Size = new Size(56, 15);
+            label1.TabIndex = 0;
+            label1.Text = "USUARIO";
+            // 
+            // FormUsuario
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(label1);
+            Name = "FormUsuario";
+            Text = "Form3";
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
+<<<<<<< HEAD
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
@@ -352,5 +376,8 @@
         private RichTextBox richTextBox9;
         private RichTextBox richTextBox10;
         private TextBox textBoxNombre;
+=======
+        private Label label1;
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
     }
 }

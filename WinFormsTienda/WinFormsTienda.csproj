@@ -27,6 +27,7 @@
     </EmbeddedResource>
   </ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <None Update="imagen\crema.jpeg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -45,4 +46,6 @@
     </None>
   </ItemGroup>
 
+=======
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
 </Project>

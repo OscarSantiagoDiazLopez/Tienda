@@ -45,24 +45,38 @@ namespace WinFormsTienda
                 {
                     // Obtener el modo del usuario
                     string modo = db.ObtenerModoUsuario(usuario);
+<<<<<<< HEAD
                     string nombre = db.MostrarUsuario(usuario);
+=======
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
 
                     // Redirigir segun el modo
                     if (modo == "administrador")
                     {
                         MessageBox.Show("Bienvenido, Administrador.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+<<<<<<< HEAD
                         FormAdmin formAdmin = new FormAdmin();
                         this.Hide();
                         formAdmin.ShowDialog();
+=======
+                        this.Hide();
+                        FormAdmin formAdmin = new FormAdmin();
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
                         formAdmin.Show();
                     }
                     else if (modo == "usuario")
                     {
                         MessageBox.Show("Bienvenido, Usuario.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+<<<<<<< HEAD
                         FormUsuario formUsuario = new FormUsuario(nombre);
                         this.Hide();
                         formUsuario.ShowDialog();
                         this.Show();
+=======
+                        this.Hide();
+                        FormUsuario formUsuario = new FormUsuario();
+                        formUsuario.Show();
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
                     }
                     else
                     {

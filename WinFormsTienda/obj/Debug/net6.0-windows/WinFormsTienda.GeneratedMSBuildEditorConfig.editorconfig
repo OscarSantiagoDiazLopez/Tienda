@@ -14,7 +14,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormsTienda
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\itali\Downloads\Tienda-master\Tienda-master\WinFormsTienda\
+=======
+build_property.ProjectDir = C:\Users\odlop\Downloads\Tienda-main\Tienda-main\WinFormsTienda\
+>>>>>>> 4dbb0cbc5f5156335bf38028c0bdd6a4f5810411
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
